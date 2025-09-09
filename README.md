@@ -7,7 +7,7 @@ _Released: 9/8/2025_
 
 **New**
 - CRM system integration: link session reports to client records, centralize transcripts and metrics  
-- Advanced language metrics *(excluding maze words like fillers, repetitions, false starts)*:  
+- Advanced language metrics *(excluding maze words like fillers, repetitions)*:  
   - **Syntax/Morphology**: MLUm, MLUw  
   - **Semantics**: NTW, NDW, TTR, moving-average NTW/NDW/TTR, VOCO-D (lexical diversity, prepared)  
   - **Verbal Fluency**: pauses per word, words per minute, maze words/total words  
