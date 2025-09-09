@@ -12,7 +12,7 @@ SATE uses a clear and consistent versioning system:
 > - `v1.5.5` → Features & patches on API v1  
 > - `v2.0.0` → First release on API v2  
 
-Optional pre-release tags:  
+pre-release tags:  
 - `-alpha` (experimental)  
 - `-beta` (testing)  
 - `-rc` (release candidate)
